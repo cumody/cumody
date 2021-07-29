@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp;I'm an enthusiast of mobile development. Always looking to be the best at what I do.
-- 🎓 &nbsp; Studying Acounting and Mathematics at Alexandria University.
+- 🎓 &nbsp; Studying Accounting and Mathematics at Alexandria University.
 - 💼 &nbsp; Working as a Designer at 2ms Designs for creating Furniture.
 - 🌱 &nbsp; I love to learn Clean Architecture and Systems Design .
 - ✍️ &nbsp; Pursuing Graphic Design as a hobby/side hustles.
