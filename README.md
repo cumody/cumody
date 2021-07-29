@@ -1,14 +1,14 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h2> Hey there! Mahmoud Shaaban => Software Engineer.</h2>
+<h2> Hi, Mahmoud Shaaban! </h2> (https://camo.githubusercontent.com/171231389424d1aa2428c4de2232a0e1969225fb8d76eb16cbf2c46d3262e392/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f7930584a44344f7a7337496b334d7266645a30433257747a52687a394f616a55413548474a496f5145665a545634477a4d796f63323765634c5a43616f4944695a586f)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp;I'm an enthusiast of mobile development. Always looking to be the best at what I do.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying Acounting and Mathematics at Alexandria University.
+- 💼 &nbsp; Working as a Designer at 2ms Designs for creating Furniture.
+- 🌱 &nbsp; I love to learn Clean Architecture and Systems Design .
+- ✍️ &nbsp; Pursuing Graphic Design as a hobby/side hustles.
 
 <h3> 🛠 &nbsp;Technologies</h3>
 
@@ -39,9 +39,9 @@
 <h3> 🤝🏻 &nbsp;Contact With me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/mahmoud-shaaban-7b8baa172"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mahmoudshabaan0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="cumody82@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="www.linkedin.com/in/mahmoud-shaaban-7b8baa172"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Shaaban-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/mahmoudshabaan0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mahmoudshabaan0-blue?style=flat-square&logo=instagram"></a>
+<a href="cumody82@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cumody82gmail.com-blue?style=flat-square&logo=gmaill"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/cumody)
