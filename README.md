@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp;I'm an enthusiast of mobile development. Always looking to be the best at what I do.
 - 🎓 &nbsp; Studying Accounting and Mathematics at Alexandria University.
-- 💼 &nbsp; Working as a Designer at 2ms Designs for creating Furniture.
+- 💼 &nbsp; Working as a Designer at 2MS Designs for creating Furniture.
 - 🌱 &nbsp; I love to learn Clean Architecture and Systems Design .
 - ✍️ &nbsp; Pursuing Graphic Design as a hobby/side hustles.
 
@@ -40,7 +40,7 @@
 <h3> 🤝🏻 &nbsp;Contact With me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/mahmoud-shaaban-7b8baa172"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Shaaban-blue?style=flat-square&logo=linkedin"></a>
+<a href="www.linkedin.com/in/mahmoud-shaaban-7b8baa172/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Shaaban-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/mahmoudshabaan0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mahmoudshabaan0-blue?style=flat-square&logo=instagram"></a>
 <a href="cumody82@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cumody82gmail.com-blue?style=flat-square&logo=gmaill"></a>
 </p>
