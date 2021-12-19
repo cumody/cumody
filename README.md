@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Accounting and Mathematics at Alexandria University.
 - 💼 &nbsp; Working as a Designer at 2MS Designs for creating Furniture.
 - 🌱 &nbsp; I love to learn Clean Architecture and Systems Design .
-- ✍️ &nbsp; Pursuing Graphic Design as a hobby/side hustles.
+- ✍️ Pursuing Graphic Design as a hobby/side hustles.
 
 <h3> 🛠 &nbsp;Technologies</h3>
 
