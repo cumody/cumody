@@ -45,4 +45,4 @@
 <a href="cumody82@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cumody82gmail.com-blue?style=flat-square&logo=gmaill"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/cumody)
+
